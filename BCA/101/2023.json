@@ -1,0 +1,29 @@
+{
+	"sections": {
+		"$a": {
+			"totalQuestions": 5,
+			"toBeAttempted": 5
+		},
+		"$b": {
+			"totalQuestions": 3,
+			"toBeAttempted": 2
+		}
+		
+	},
+	"questions": [
+		{
+			"marks": 5,
+			"section": "$a",
+			"topics": [
+				"$T0"
+			]
+		},
+		{
+			"marks": 7.5,
+			"section": "$b",
+			"topics": [
+				"$T0", "$T1"
+			]
+		}
+	]
+}
